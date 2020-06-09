@@ -1,0 +1,7 @@
+<h1>Admin home</h1>
+
+<div class="container">
+    <p><strong>Name</strong> : {{currentUser.username}} </p>
+    <p><strong>Role</strong> : {{currentUser.role}} </p>
+    <a [routerLink]="[ '/deconnexion' ]" (click)="deconnexion()">Deconnexion</a>
+</div>
