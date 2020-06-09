@@ -1,5 +1,7 @@
 # ProjectAuth
 
+Pour les donnés d'authentification je n'ais pas utilisé une base de donné mais des données en brute {Id="1", Username="tarik", Password="123", Role="admin"} {Id="2", Username="ayoub", Password="123", Role="user"}
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
 
 ## Development server
